@@ -2,7 +2,7 @@
 - 👀 I’m studying at Alura
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me josyp4832@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I`m brazillian
 
